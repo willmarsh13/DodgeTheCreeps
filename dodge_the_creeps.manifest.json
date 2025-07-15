@@ -1,0 +1,1 @@
+{"background_color":"#000000","display":"standalone","icons":[{"sizes":"144x144","src":"catan_board.144x144.png","type":"image/png"},{"sizes":"180x180","src":"catan_board.180x180.png","type":"image/png"},{"sizes":"512x512","src":"catan_board.512x512.png","type":"image/png"}],"name":"catan_board","orientation":"any","start_url":"./catan_board.html"}
